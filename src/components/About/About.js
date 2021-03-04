@@ -23,8 +23,8 @@ const About = ()=>{
       <Slide right>
         
         <p className="p-4 m-4  " style={{fontWeight:'bold'}}>
-        A Final-year Computer Science undergraduate student at Dr.Bat University with an interest in cybersecurity, software development and Information Technology.
-        I am greatly influenced by the web as well as Android technologies and have good experience working with them. Actively looking forward to join a firm where I can contribute to upcoming products and help me to upgrade myself to new level.
+        A Final-year Computer Science undergraduate student at Dr.Batu University with an interest in  software development.
+        I am greatly influenced by the web Technologies  as well as Android technologies and have good experience working with them. Actively looking forward to join a firm where I can contribute to upcoming products and help me to upgrade myself to new level.
         </p>
 
       </Slide>
