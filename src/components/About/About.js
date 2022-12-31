@@ -23,7 +23,7 @@ const About = ()=>{
       <Slide right>
         
         <p className="p-4 m-4  " style={{fontWeight:'bold'}}>
-        A Final-year Computer Science undergraduate student at Dr.Batu University with an interest in  software development.
+        A Computer Science graduated student at Dr.Batu University with an interest in  software development.
         I am greatly influenced by the web Technologies  as well as Android technologies and have good experience working with them. Actively looking forward to join a firm where I can contribute to upcoming products and help me to upgrade myself to new level.
         </p>
 
@@ -48,6 +48,11 @@ const About = ()=>{
           <p><span><SiIcons.SiReact size={30}/></span> React-Native</p>
           <p><span><SiIcons.SiReact size={30}/></span> NodeJs(Express)</p>
           <p><span><SiIcons.SiReact size={30}/></span> MongoDB</p>
+          </Col>
+
+          <Col>
+          <Slide right><h2>Tool</h2></Slide>
+          <p><span><SiIcons.SiSalesforce size={30}/></span>Salesforce</p>
           </Col>
         </Row>
       </Container>

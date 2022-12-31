@@ -10,7 +10,7 @@ var PData = [
     anim:'left',
     imgsrc:connect,
     titile:'SIH_CONNECT',
-    desc:'Medical Alert Application which help students parents , doctor and hostel head about their recent health condition.',
+    desc:'SIH Connect is smart India hackthon project .',
     buttontitle:'GitHub',
     btnurl:'https://github.com/vyankatesh9604'
 },
@@ -19,7 +19,7 @@ var PData = [
     anim:'top',
     imgsrc:food,
     titile:'FOOD-RECEIPE',
-    desc:'ShayariTM is android mobile application which includes all types of Shayari’s and Entertainments Stuff.',
+    desc:'Food receipe  is mini projet where you can search about food receipe.',
     buttontitle:'GitHub',
     btnurl:'https://github.com/vyankatesh9604/foodrecipeproject/'
 },
@@ -28,7 +28,7 @@ var PData = [
     anim:'bottom',
     imgsrc:rating,
     titile:'RATING-SYSTEM',
-    desc:'Created an android app using Flutter and Dart Language, where user will know about his/her body mass index.',
+    desc:'.',
     buttontitle:'GitHub',
     btnurl:'https://github.com/TejasG-007/Bmi_Calculator_flutter_beutiful_UI'
 },
@@ -37,7 +37,7 @@ var PData = [
     anim:'right',
     imgsrc:todo,
     titile:'TODO-APP',
-    desc:'Quotes mobile Application using flutter framework having Quotes which are form/made by Great Peoples.',
+    desc:'TODO APP is like sticky notes but it can provide you notifiction based on your daily activities.',
     buttontitle:'GitHub',
     btnurl:'https://github.com/vyankatesh9604'
 
@@ -48,7 +48,7 @@ var PData = [
     anim:'left',
     imgsrc:course,
     titile:'COURSES',
-    desc:'Created Shankuntal School Site Using Wordpress also Provide Excellent support to Client.',
+    desc:'Courses web appliction using that we can get the courses which we want to learn.',
     buttontitle:'GitHub',
     btnurl:'https://github.com/vyankatesh9604'
 

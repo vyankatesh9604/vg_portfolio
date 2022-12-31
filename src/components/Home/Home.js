@@ -40,7 +40,7 @@ const Home = () => {
                     </Col>
                     <Col sm={6} style={{ alignSelf: 'center', fontWeight: 'bold' }}>
 
-                        <Slide right> <h1 style={{ fontSize: '50px', fontWeight: 'bold', marginRight: '10px'}}>Hi,I'm Vyankatesh Gadpallewar</h1><Button onClick={() => setknowme(!knowme)}
+                        <Slide right> <h1 style={{ fontSize: '50px', fontWeight: 'bold', marginRight: '10px'}}>Hey,I'm Vyankatesh Gadpallewar</h1><Button onClick={() => setknowme(!knowme)}
                             aria-controls={knowme}
                             aria-expanded="clicked"
                             variant="outline-success">Know About me</Button>
